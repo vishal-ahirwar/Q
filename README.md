@@ -1,2 +1,2 @@
 # project-v
-next gen virtual assistant 
+Next Gen Virtual Assistant 
